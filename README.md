@@ -28,16 +28,16 @@ On the image below - the top computer would be the host computer. The three comp
 Virtual machines act like real computers, but run as a software program. So you can start, restart, shut down, install software and operating systems just like you would on a normal computer.
 This makes virtual machines perfect for IT labs.
 
-Free Virtualization Software
-With so many different virtualization software options available, it can be pretty confusing to know which one is the "best" and which one you should use. Let's address this now.
- 
-There is no "best" virtualization software. There are simply different options - and the ones you should consider will depend on your host operating system.
+<h2>Free Virtualization Software </h2>
+With so many different virtualization software options available, it can be pretty confusing to know which one is the "best" and which one you should use. Let's address this now. There is no "best" virtualization software. There are simply different options - and the ones you should consider will depend on your host operating system.
  
 In this setup I will be using Oracle VM VirtualBox because it is compatible with both Windows and Linux, but you can use any you want. The steps will nearly be identical to other virtualization software. 
 
  
-Downloading and Installing VirtualBox
+<h2>Downloading and Installing VirtualBox </h2>
 Download Oracle VM VirtualBox by clicking here. Once the download completes, I launched the installation.
+
+<img src>
 
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you need to select "yes'.
 
