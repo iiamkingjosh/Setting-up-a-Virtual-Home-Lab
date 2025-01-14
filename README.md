@@ -37,14 +37,28 @@ In this setup I will be using Oracle VM VirtualBox because it is compatible with
 <h2>Downloading and Installing VirtualBox </h2>
 Download Oracle VM VirtualBox by clicking here. Once the download completes, I launched the installation.
 
-<img src>
+
+<img src="Folder/VirtualBox-Install.jpg">
+
 
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you need to select "yes'.
 
+
+<img src="Folder/VirtualBox-Complete.jpg">
+
+
 Click Finish and launch VirtualBox.
 
-Creating a Virtual Machine
+
+<img src="Folder/VirtualBox-Dashboard.jpg">
+
+
+
+<h2>Creating a Virtual Machine </h2>
 Now that we know what type of virtual network we want to use it's time to create a VM (Virtual Machine). We can do this by clicking the New button within the VirtualBox Manager.
+
+
+<img src="Folder/New.jpg">
 
 This will launch the new VM window. Go ahead and click the Expert Mode button. Don't worry - it doesn't make the process more difficult it only allows you to create a VM while navigating through less pages.
 
