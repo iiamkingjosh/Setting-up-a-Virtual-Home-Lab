@@ -35,7 +35,7 @@ In this setup I will be using Oracle VM VirtualBox because it is compatible with
 
  
 <h2>Downloading and Installing VirtualBox </h2>
-Download Oracle VM VirtualBox by clicking here. Once the download completes, I launched the installation.
+Download Oracle VM VirtualBox by <a href="https://www.virtualbox.org/">clicking here</a>. Once the download completes, I launched the installation.
 
 
 
@@ -175,12 +175,20 @@ Kali Linux
 
 <h2>Installing an OS on Your Lab VMs</h2>
 Once you have downloaded your ISO file, it's time to mount it to your VM in VirtualBox. Mounting a VM is essentially like virtually inserting a disc into a DVD drive of a computer.
- 
-Right click on your VM and select settings then open the Storage tab. From there click the Empty disc icon, then again the disc icon under Attributes on the right hand side of the window. Click the Choose Virtual Optical Disk File... and browse to and open your desired ISO.
+Right click on your VM and select settings then open the Storage tab. From there click the Empty disc icon, then again the disc icon under Attributes on the right hand side of the window. 
+
+Click the Choose Virtual Optical Disk File... and browse to and open your desired ISO.
+
+
+<img src="Folder/Attach-an-ISO.jpg">
+
 
 
 Click OK and now when we launch the VM you will be able to begin your OS installation.
 I mounted a Windows Server 2016 ISO so when I launch the VM I will see the installation screen for this OS.
+
+
+<img src="Folder/Windows-Server-2016-Install-2.jpg">
 
 Now you can run through your OS installation and complete your lab setup.
 Wrapping it Up...
