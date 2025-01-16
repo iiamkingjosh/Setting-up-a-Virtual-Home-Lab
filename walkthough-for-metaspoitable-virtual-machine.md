@@ -79,12 +79,3 @@ After the instance has finished loading, you’ll be prompted to enter a login n
 <img src="Folder/met11.jpg">
 
 After logging in with the provided credentials, you’ll gain access to the machine, completing the installation process successfully.  
-
-
-## Accessing and Testing Metasploitable  
-
-1. After logging in, verify the network configuration using the following command:  
-
-   ```bash
-   ifconfig
-
